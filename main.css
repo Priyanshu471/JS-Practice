@@ -1,0 +1,15 @@
+div {
+  min-width: 100px;
+  min-height: 100px;
+  padding: 30px;
+  border: 1px solid black;
+}
+#grandparent {
+  background-color: red;
+}
+#parent {
+  background-color: green;
+}
+#child {
+  background-color: blue;
+}
